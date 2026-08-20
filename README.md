@@ -8,15 +8,15 @@ O Projeto não apenas calcula, mas também deverá informar todas as informaçõ
 
 ## Histórico de Versões (Changelog)
 
-### [0.0.2] - 20-08-2026 - Pré-Alpha
+### [0.0.2] - 20-08-2026 - Pré-Alpha (PATCH)
 - **Alterado** Readme (Correções)
 - **Adicionado** Readme
 - **Adicionado** Estrutura Inicial do Projeto
 
-### [0.0.1] - 19-08-2026 - Pré-Alpha
+### [0.0.1] - 19-08-2026 - Pré-Alpha (PATCH)
 - **Adicionado** Repositório Criado
 - **Adicionado** Licença MIT Adicionada
 
 #### Desenvolvedor
-Dev: Anderson Pedro de Alcântara <br>
-E:-Mail: andersonalcantara.ti@gmail.com
+*Dev: Anderson Pedro de Alcântara* <br>
+*E:-Mail: andersonalcantara.ti@gmail.com*
