@@ -1,0 +1,22 @@
+# Projeto IMC
+
+Seja bem-vindo(a)! <br>
+Este é o meu primeiro Aplicativo Web. <br>
+
+O "Projeto IMC" é uma calculadora de IMC, seguindo as regras da OMS a risca. <br>
+O Projeto não apenas calcula, mas também deverá informar todas as informações necessárias para o usuário final <br>
+tiver total compreensão do que está consumindo.
+
+## Histórico de Verosões (Changelog)
+
+### [0.0.2] - 20-08-2026 - Pré-Alpha
+- **Adicionado** Readme
+- **Adicionado** Estrutura Inicial do Projeto
+
+### [0.0.1] - 19-08-2026 - Pré-Alpha
+- **Adicionado** Repositório Criado
+- **Adicionado** Licença MIT Adicionada
+
+#### Desenvolvedor
+Dev: Anderson Pedro de Alcântara <br>
+E:-Mail: andersonalcantara.ti@gmail.com
