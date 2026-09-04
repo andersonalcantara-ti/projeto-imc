@@ -8,6 +8,9 @@ O Projeto não apenas calcula, mas também deverá informar todas as informaçõ
 
 ## Histórico de Versões (Changelog)
 
+### [0.0.3] - 03-09-2026 - Pré-Alpha (PATCH)
+- **Alterado** Readme (Atualização)
+
 ### [0.0.2] - 20-08-2026 - Pré-Alpha (PATCH)
 - **Alterado** Readme (Correções)
 - **Adicionado** Readme
